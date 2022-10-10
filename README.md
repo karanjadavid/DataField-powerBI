@@ -14,9 +14,9 @@ The data field is relatively new with various jobs that require specific skills.
 ## Questions the analysis seeks answers
 Discover trends in jobs and skills within the data science field
 
-1.What are the most popular jobs in Data science?
+1. What are the most popular jobs in Data science?
 
-2.What is the average salary of roles in Data Science?
+2. What is the average salary of roles in Data Science?
 
 3. How frequently are job postings being posted?
 
@@ -32,12 +32,20 @@ Discover trends in jobs and skills within the data science field
 
 
 ### Main Job titles
+
 > Data Engineer
+
 > Business Analyst
+
 > Data Scientist
+
 > Data Analyst
+
 > Machine learning Engineer
+
 > Data Architect
+
 > Research Scientist
+
 > Data Science Manager
 
